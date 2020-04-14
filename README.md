@@ -36,7 +36,9 @@ composer require pcualmac/migrationbyconfigfile
 ```
 open config/app.php
 add
+```
 pcualmac\MigrationByConfigFile\MigrationByConfigFileServiceProvider::class,
+```
 in
 'providers' 
 

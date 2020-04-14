@@ -1,6 +1,6 @@
 <?php
 
-namespace jerry\MigrationByConfigFile;
+namespace pcualmac\MigrationByConfigFile;
 
 
 use Illuminate\Support\ServiceProvider;

@@ -21,17 +21,29 @@ composer
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+Laravel 5.8 and over.
 
 ```
 composer require pcualmac/migrationbyconfigfile
-
+php artisan vendor:publish
 ```
 
-And repeat
+
+Laravel 5.4 to 5.4.
 
 ```
-until finished
+composer require pcualmac/migrationbyconfigfile
+```
+open config/app.php
+add
+pcualmac\MigrationByConfigFile\MigrationByConfigFileServiceProvider::class,
+in
+'providers' 
+
+And run 
+
+```
+php artisan vendor:publish
 ```
 
 End with an example of getting some data out of the system or using it for a little demo

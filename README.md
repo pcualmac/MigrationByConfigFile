@@ -2,13 +2,9 @@
 
 =======================
 
-[![issues](https://img.shields.io/github/issues/pcualmac/MigrationByConfigFile)]
-(https://github.com/pcualmac/MigrationByConfigFile/issues)
-
-
-[![issues] (https://img.shields.io/github/issues/pcualmac/MigrationByConfigFile)]
-GitHub forks:	GitHub forks badge	https://img.shields.io/github/forks/pcualmac/MigrationByConfigFile
-GitHub stars:	GitHub stars badge	https://img.shields.io/github/stars/pcualmac/MigrationByConfigFile
+[![Latest Version](https://img.shields.io/github/release/guzzle/guzzle.svg?style=flat-square)](https://github.com/guzzle/guzzle/releases)
+![Build Status](https://github.com/guzzle/guzzle/workflows/CI/badge.svg?style=flat-square)
+[![Total Downloads](https://img.shields.io/packagist/dt/guzzlehttp/guzzle.svg?style=flat-square)](https://packagist.org/packages/guzzlehttp/guzzle)
 
 
 

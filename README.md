@@ -3,7 +3,7 @@
 =======================
 
 [![issues](https://img.shields.io/github/issues/pcualmac/MigrationByConfigFile)]
-(https://github.com/guzzle/guzzle/releases)
+(https://github.com/pcualmac/MigrationByConfigFile/issues)
 
 
 [![issues] (https://img.shields.io/github/issues/pcualmac/MigrationByConfigFile)]

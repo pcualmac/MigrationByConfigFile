@@ -29,7 +29,7 @@ php artisan vendor:publish
 ```
 
 
-Laravel 5.4 to 5.4.
+Laravel 5.4 to 5.8.
 
 ```
 composer require pcualmac/migrationbyconfigfile

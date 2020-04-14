@@ -1,6 +1,7 @@
 {
     "name": "pcualmac/migrationbyconfigfile",
     "description": "This package should aloud you to set by config file a dir to search for migration.",
+    "type": "library", 
     "license": "MIT",
     "authors": [
         {
@@ -12,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4":{
-            "pcualmac\\MigrationByConfigFile\\" : "src/"
+            "Pcualmac\\MigrationByConfigFile\\" : "src/"
         }
     }
 }

@@ -15,5 +15,12 @@
         "psr-4":{
             "Pcualmac\\MigrationByConfigFile\\" : "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "PcualMac\\MigrationByConfigFile\\MigrationByConfigFileServiceProvider"
+            ]
+        }
     }
 }

@@ -1,0 +1,18 @@
+{
+    "name": "jerry/migrationbyconfigfile",
+    "description": "This package should aloud you to set by config file a dir to search for migration.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Calogero Pumpignano",
+            "email": "pumpignano@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "jerry\\MigrationByConfigFile\\" : "src/"
+        }
+    }
+}

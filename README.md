@@ -2,6 +2,9 @@
 
 =======================
 
+[![issues](https://img.shields.io/github/issues/pcualmac/MigrationByConfigFile)]
+(https://github.com/guzzle/guzzle/releases)
+
 
 [![issues] (https://img.shields.io/github/issues/pcualmac/MigrationByConfigFile)]
 GitHub forks:	GitHub forks badge	https://img.shields.io/github/forks/pcualmac/MigrationByConfigFile

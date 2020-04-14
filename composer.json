@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "PcualMac\\MigrationByConfigFile\\MigrationByConfigFileServiceProvider"
+                "Pcualmac\\MigrationByConfigFile\\MigrationByConfigFileServiceProvider"
             ]
         }
     }
